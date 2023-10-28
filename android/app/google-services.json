@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484195576343",
+    "project_id": "helpers-family-43557",
+    "storage_bucket": "helpers-family-43557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484195576343:android:414f142586c28e039aca52",
+        "android_client_info": {
+          "package_name": "com.helpersfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484195576343-964blpeo3i921edrmetajmkc68otnaag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlv517STvwKhxo0yZn7OJJOQHeY6o20U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484195576343-964blpeo3i921edrmetajmkc68otnaag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
